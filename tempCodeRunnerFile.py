@@ -1,1 +1,4 @@
-schizophrenia and new not drug
+
+vectorizer.fit(text)
+
+# encode document
